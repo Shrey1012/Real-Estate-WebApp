@@ -30,7 +30,7 @@ const HouseList = () => {
         <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-14'>
           {houses.map((house, index) => {
             return (
-                <House house={house} />
+                <House key={index} house={house} />
             );
           })}
         </div>

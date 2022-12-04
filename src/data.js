@@ -35,6 +35,8 @@ export const housesData = [
     surface: '4200 sq ft',
     year: '2016',
     price: '110000',
+    availabilityStart: '2022-10-10',
+    availabilityEnd: '2023-10-10',
   },
   {
     id: 2,
@@ -50,6 +52,8 @@ export const housesData = [
     surface: '4200 sq ft',
     year: '2016',
     price: '140000',
+    availabilityStart: '2022-12-10',
+    availabilityEnd: '2023-01-31',
   },
   {
     id: 3,
@@ -65,6 +69,8 @@ export const housesData = [
     surface: '4200 sq ft',
     year: '2016',
     price: '170000',
+    availabilityStart: '2022-09-23',
+    availabilityEnd: '2022-11-28',
   },
   {
     id: 4,
@@ -80,6 +86,8 @@ export const housesData = [
     surface: '4200 sq ft',
     year: '2016',
     price: '200000',
+    availabilityStart: '2022-11-10',
+    availabilityEnd: '2025-01-01',
   },
   {
     id: 5,
@@ -95,6 +103,8 @@ export const housesData = [
     surface: '4200 sq ft',
     year: '2015',
     price: '210000',
+    availabilityStart: '2022-01-09',
+    availabilityEnd: '2023-04-07',
   },
   {
     id: 6,
@@ -110,6 +120,8 @@ export const housesData = [
     surface: '6200 sq ft',
     year: '2014',
     price: '220000',
+    availabilityStart: '2022-08-26',
+    availabilityEnd: '2023-02-28',
   },
   {
     id: 7,
@@ -125,6 +137,8 @@ export const housesData = [
     surface: '1200 sq ft',
     year: '2012',
     price: '20000',
+    availabilityStart: '2022-11-03',
+    availabilityEnd: '2022-12-25',
   },
   {
     id: 8,
@@ -140,6 +154,8 @@ export const housesData = [
     surface: '1000 sq ft',
     year: '2011',
     price: '30000',
+    availabilityStart: '2022-09-10',
+    availabilityEnd: '2023-08-12',
   },
   {
     id: 9,
@@ -155,6 +171,8 @@ export const housesData = [
     surface: '1100 sq ft',
     year: '2011',
     price: '40000',
+    availabilityStart: '2022-06-17',
+    availabilityEnd: '2023-06-17',
   },
   {
     id: 10,
@@ -170,6 +188,8 @@ export const housesData = [
     surface: '3200 sq ft',
     year: '2015',
     price: '117000',
+    availabilityStart: '2022-12-01',
+    availabilityEnd: '2023-10-17',
   },
   {
     id: 11,
@@ -185,6 +205,8 @@ export const housesData = [
     surface: '2200 sq ft',
     year: '2019',
     price: '145000',
+    availabilityStart: '2021-08-10',
+    availabilityEnd: '2024-02-15',
   },
   {
     id: 12,
@@ -200,6 +222,8 @@ export const housesData = [
     surface: '4600 sq ft',
     year: '2015',
     price: '139000',
+    availabilityStart: '2021-12-27',
+    availabilityEnd: '2022-12-31',
   },
   {
     id: 13,
@@ -215,6 +239,8 @@ export const housesData = [
     surface: '5200 sq ft',
     year: '2014',
     price: '180000',
+    availabilityStart: '2022-11-13',
+    availabilityEnd: '2023-12-21',
   },
   {
     id: 14,
@@ -230,6 +256,8 @@ export const housesData = [
     surface: '3200 sq ft',
     year: '2011',
     price: '213000',
+    availabilityStart: '2022-05-01',
+    availabilityEnd: '2023-05-01',
   },
   {
     id: 15,
@@ -245,6 +273,8 @@ export const housesData = [
     surface: '5200 sq ft',
     year: '2013',
     price: '221000',
+    availabilityStart: '2022-01-11',
+    availabilityEnd: '2023-03-12',
   },
   {
     id: 16,
@@ -260,6 +290,8 @@ export const housesData = [
     surface: '1300 sq ft',
     year: '2011',
     price: '21000',
+    availabilityStart: '2022-07-22',
+    availabilityEnd: '2023-01-29',
   },
   {
     id: 17,
@@ -275,6 +307,8 @@ export const housesData = [
     surface: '1000 sq ft',
     year: '2012',
     price: '32000',
+    availabilityStart: '2022-08-29',
+    availabilityEnd: '2023-06-11',
   },
   {
     id: 18,
@@ -290,5 +324,7 @@ export const housesData = [
     surface: '1200 sq ft',
     year: '2010',
     price: '38000',
+    availabilityStart: '2022-12-04',
+    availabilityEnd: '2023-09-03',
   },
 ];

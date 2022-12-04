@@ -4,6 +4,7 @@ import React,{ useContext } from "react";
 import CountryDropdown from "./CountryDropdown";
 import PropertyDropdown from "./PropertyDropdown";
 import PriceRangeDropdown from "./PriceRangeDropdown";
+import DateDropdown from "./DateDropdown";
 
 // import context
 import { HouseContext } from './HouseContext';
@@ -18,6 +19,8 @@ const Search = () => {
       <CountryDropdown />
       <PropertyDropdown />
       <PriceRangeDropdown />
+      <DateDropdown />
+
       <button
         onClick={() => {
           handleClick();
